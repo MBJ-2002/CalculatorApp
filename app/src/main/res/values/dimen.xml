@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnh">100dp</dimen>
+    <dimen name="btnw">88dp</dimen>
+    <dimen name="btnrad">50dp</dimen>
+    <dimen name="btnmar">5dp</dimen>
+</resources>
